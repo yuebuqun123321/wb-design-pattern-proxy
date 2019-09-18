@@ -6,4 +6,7 @@ package com.wb.pattern.proxy.cglib;
  * @Description:
  */
 public class Test {
+  
+  public String name = "张三";
+  
 }
